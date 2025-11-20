@@ -1,0 +1,26 @@
+{
+  "model_type": "DecisionTreeClassifier",
+  "num_gestures": 18,
+  "gestures": [
+    "CALL",
+    "CLOSED_FIST",
+    "FINGERS_CROSSED",
+    "FIST",
+    "ILY",
+    "OK",
+    "ONE",
+    "OPEN_HAND",
+    "PEACE",
+    "PINCH",
+    "POINT_ME",
+    "POINT_YOU",
+    "ROCK",
+    "SMALL",
+    "SNAP",
+    "THUMBS_DOWN",
+    "THUMBS_UP",
+    "VULCAN"
+  ],
+  "feature_dim": 63,
+  "created": "2025-11-20T06:32:06"
+}

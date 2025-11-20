@@ -1,0 +1,155 @@
+[
+  {
+    "name": "THUMBS_UP",
+    "display": "Thumbs Up",
+    "description": "Fist with thumb pointing up, knuckles facing forward",
+    "handshape": "THUMBS_UP",
+    "category": "Gestures",
+    "meanings": ["Good", "Yes", "Like"],
+    "malay": "Bagus / Ya / Suka"
+  },
+  {
+    "name": "THUMBS_DOWN",
+    "display": "Thumbs Down",
+    "description": "Fist with thumb pointing down, knuckles facing forward",
+    "handshape": "THUMBS_DOWN",
+    "category": "Gestures",
+    "meanings": ["Bad", "Dislike", "No"],
+    "malay": "Tidak Bagus / Tidak Suka / Tidak"
+  },
+  {
+    "name": "STOP",
+    "display": "Stop",
+    "description": "Open palm facing forward, fingers together vertical",
+    "handshape": "PALM_VERTICAL",
+    "category": "Gestures",
+    "meanings": ["Stop", "Wait"],
+    "malay": "Berhenti / Tunggu"
+  },
+  {
+    "name": "PEACE",
+    "display": "Peace / Victory",
+    "description": "Index and middle fingers extended in V, palm facing forward",
+    "handshape": "V_SIGN",
+    "category": "Gestures",
+    "meanings": ["Two", "Peace", "Victory"],
+    "malay": "Dua / Damai / Menang"
+  },
+  {
+    "name": "PINCH_SMALL",
+    "display": "Pinch Small",
+    "description": "Thumb and index fingertip almost touching, small gap",
+    "handshape": "PINCH_TIGHT",
+    "category": "Gestures",
+    "meanings": ["Small", "Tiny", "Little"],
+    "malay": "Kecil / Sedikit"
+  },
+  {
+    "name": "PINCH_BIG",
+    "display": "Pinch Big",
+    "description": "All fingertips gathered together pointing up, larger pinch",
+    "handshape": "PINCH_ALL",
+    "category": "Gestures",
+    "meanings": ["Big", "A lot", "Many"],
+    "malay": "Besar / Banyak"
+  },
+  {
+    "name": "POINTING",
+    "display": "Pointing",
+    "description": "Index finger pointing forward, other fingers curled",
+    "handshape": "POINT_FORWARD",
+    "category": "Gestures",
+    "meanings": ["You", "There", "That"],
+    "malay": "Awak / Di sana / Itu"
+  },
+  {
+    "name": "OK",
+    "display": "OK Sign",
+    "description": "Thumb and index fingertips touching in circle, other fingers extended",
+    "handshape": "OK_CIRCLE",
+    "category": "Gestures",
+    "meanings": ["OK", "Correct", "Perfect"],
+    "malay": "Okay / Betul / Sempurna"
+  },
+  {
+    "name": "FIST",
+    "display": "Fist",
+    "description": "All fingers curled into tight fist, thumb outside",
+    "handshape": "FIST_CLOSED",
+    "category": "Gestures",
+    "meanings": ["Rock", "Punch", "Ready", "Strong"],
+    "malay": "Kuat / Siap / Berani"
+  },
+  {
+    "name": "ILY",
+    "display": "I Love You",
+    "description": "Thumb, index, and pinky extended, middle and ring curled",
+    "handshape": "ILY_SIGN",
+    "category": "Gestures",
+    "meanings": ["Love", "I Love You"],
+    "malay": "Cinta / Saya Sayang Awak"
+  },
+  {
+    "name": "ONE",
+    "display": "One",
+    "description": "Index finger pointing up, other fingers curled, thumb in",
+    "handshape": "ONE_UP",
+    "category": "Numbers",
+    "meanings": ["One", "First"],
+    "malay": "Satu / Pertama"
+  },
+  {
+    "name": "TWO",
+    "display": "Two Fingers",
+    "description": "Index and middle fingers extended up, palm facing forward",
+    "handshape": "TWO_UP",
+    "category": "Numbers",
+    "meanings": ["Two", "Second"],
+    "malay": "Dua / Kedua"
+  },
+  {
+    "name": "ROCK",
+    "display": "Rock Sign",
+    "description": "Index and pinky extended, thumb out, middle and ring curled",
+    "handshape": "ROCK_HORNS",
+    "category": "Gestures",
+    "meanings": ["Rock", "Wow", "Cool"],
+    "malay": "Rock / Hebat / Keren"
+  },
+  {
+    "name": "PALM_UP",
+    "display": "Palm Up",
+    "description": "Open hand with palm facing up, fingers slightly curved",
+    "handshape": "PALM_UP",
+    "category": "Gestures",
+    "meanings": ["Hello", "Hi", "Give"],
+    "malay": "Hai / Helo / Beri"
+  },
+  {
+    "name": "HAND_DOWN",
+    "display": "Hand Down",
+    "description": "Open hand palm facing down, fingers together",
+    "handshape": "PALM_DOWN",
+    "category": "Gestures",
+    "meanings": ["Down", "Finish", "Enough"],
+    "malay": "Bawah / Selesai / Cukup"
+  },
+  {
+    "name": "HAND_FORWARD",
+    "display": "Hand Forward",
+    "description": "Open palm pushing forward, fingers together vertical",
+    "handshape": "PUSH_FORWARD",
+    "category": "Gestures",
+    "meanings": ["Push", "Give", "Go"],
+    "malay": "Tolak / Beri / Pergi"
+  },
+  {
+    "name": "CALL_ME",
+    "display": "Call Me",
+    "description": "Thumb and pinky extended (phone shape), other fingers curled",
+    "handshape": "PHONE_SHAKA",
+    "category": "Gestures",
+    "meanings": ["Phone", "Call me"],
+    "malay": "Telefon / Hubungi Saya"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "name": "A",
+    "display": "Letter A",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter A",
+    "meanings": ["Letter A"]
+  },
+  {
+    "name": "B",
+    "display": "Letter B",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter B",
+    "meanings": ["Letter B"]
+  },
+  {
+    "name": "C",
+    "display": "Letter C",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter C",
+    "meanings": ["Letter C"]
+  },
+  {
+    "name": "D",
+    "display": "Letter D",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter D",
+    "meanings": ["Letter D"]
+  },
+  {
+    "name": "E",
+    "display": "Letter E",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter E",
+    "meanings": ["Letter E"]
+  },
+  {
+    "name": "F",
+    "display": "Letter F",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter F",
+    "meanings": ["Letter F"]
+  },
+  {
+    "name": "G",
+    "display": "Letter G",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter G",
+    "meanings": ["Letter G"]
+  },
+  {
+    "name": "H",
+    "display": "Letter H",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter H",
+    "meanings": ["Letter H"]
+  },
+  {
+    "name": "I",
+    "display": "Letter I",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter I",
+    "meanings": ["Letter I"]
+  },
+  {
+    "name": "J",
+    "display": "Letter J",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter J (requires motion)",
+    "meanings": ["Letter J"]
+  },
+  {
+    "name": "K",
+    "display": "Letter K",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter K",
+    "meanings": ["Letter K"]
+  },
+  {
+    "name": "L",
+    "display": "Letter L",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter L",
+    "meanings": ["Letter L"]
+  },
+  {
+    "name": "M",
+    "display": "Letter M",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter M",
+    "meanings": ["Letter M"]
+  },
+  {
+    "name": "N",
+    "display": "Letter N",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter N",
+    "meanings": ["Letter N"]
+  },
+  {
+    "name": "O",
+    "display": "Letter O",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter O",
+    "meanings": ["Letter O"]
+  },
+  {
+    "name": "P",
+    "display": "Letter P",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter P",
+    "meanings": ["Letter P"]
+  },
+  {
+    "name": "Q",
+    "display": "Letter Q",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter Q",
+    "meanings": ["Letter Q"]
+  },
+  {
+    "name": "R",
+    "display": "Letter R",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter R",
+    "meanings": ["Letter R"]
+  },
+  {
+    "name": "S",
+    "display": "Letter S",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter S",
+    "meanings": ["Letter S"]
+  },
+  {
+    "name": "T",
+    "display": "Letter T",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter T",
+    "meanings": ["Letter T"]
+  },
+  {
+    "name": "U",
+    "display": "Letter U",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter U",
+    "meanings": ["Letter U"]
+  },
+  {
+    "name": "V",
+    "display": "Letter V",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter V",
+    "meanings": ["Letter V"]
+  },
+  {
+    "name": "W",
+    "display": "Letter W",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter W",
+    "meanings": ["Letter W"]
+  },
+  {
+    "name": "X",
+    "display": "Letter X",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter X",
+    "meanings": ["Letter X"]
+  },
+  {
+    "name": "Y",
+    "display": "Letter Y",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter Y",
+    "meanings": ["Letter Y"]
+  },
+  {
+    "name": "Z",
+    "display": "Letter Z",
+    "category": "alphabet",
+    "description": "ASL fingerspelling letter Z (requires motion)",
+    "meanings": ["Letter Z"]
+  }
+]
